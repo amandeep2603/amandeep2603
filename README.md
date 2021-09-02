@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is **Aman**. 
 #### I am self taught **web developer**.
 
-*A brief about intro about me. I am 20yrs self taught programmer who loves to code new stuff .Though, I haven't coded new stuff but in future will do it for sure . Other than programming, I loves to eat delicious food, talk with friends and painting is my hobby .That's all about me.*
+*A brief intro about me. I am 20yrs self taught programmer who loves to code new stuff .Though, I haven't coded new stuff but in future will do it for sure . Other than programming, I loves to eat delicious food, talk with friends and painting is my hobby .That's all about me.*
 
 Skills: **HTML/CSS/JAVASCRIPT/PHP/SQL**
 
